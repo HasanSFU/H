@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "version": 4.5,
+    "type": "Object",
+    "generator": "Object3D.toJSON"
+  },
+  "geometries": [],
+  "materials": [],
+  "object": {
+    "uuid": "FCCA7F1C-C2C9-4A7E-A7A0-E1E7BCD72B7E",
+    "type": "Scene",
+    "name": "Building Design Alternative",
+    "matrix": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "children": []
+  },
+  "userData": {
+    "WindowtoWallRatio": 0.2,
+    "InsulationType": "Standard",
+    "GlazingType": "Double, U-3.0 with solar control",
+    "HVACSystem": "Standard efficiency",
+    "BuildingOrientation": "East-West",
+    "ShadingStrategy": "Overhangs 1.2m",
+    "SurfaceFinishes": "Standard",
+    "GWP": 5130.0,
+    "Energy": 53896.755000000005,
+    "Acidification": 53.896755000000006,
+    "Eutrophication": 5.3896755,
+    "Smog": 538.9675500000001
+  }
+}
