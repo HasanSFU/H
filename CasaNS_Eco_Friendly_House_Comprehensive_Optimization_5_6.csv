@@ -1,0 +1,7 @@
+Building_Type,Variation_Type,Alternative_ID,LCA_Measure,Unit,A1_A3_Total,A4_A5_Total,B2_B4_B6_Total,C1_C4_Total,D_Total,A_to_C_Total,A_to_D_Total
+CasaNS_Eco_Friendly_House,Comprehensive_Optimization,5.6,Eutrophication Potential,kg N eq,130.35000000000002,20.46,2394.0,16.830000000000002,7.243500000000001,2561.64,2568.8835
+CasaNS_Eco_Friendly_House,Comprehensive_Optimization,5.6,Ozone Depletion Potential,kg CFC-11 eq,0.015246,0.00076395,0.0316049999999999,0.000759,-1.9635e-06,0.04837395,0.0483719865
+CasaNS_Eco_Friendly_House,Comprehensive_Optimization,5.6,Smog Potential,kg O3 eq,7425.000000000001,8118.000000000001,41580.0,7276.500000000001,-92.565,64399.5,64306.935
+CasaNS_Eco_Friendly_House,Comprehensive_Optimization,5.6,Total Primary Energy,MJ,1914000.0,311850.0,40740000.0,359700.0,605550.0,43325550.0,43931100.0
+CasaNS_Eco_Friendly_House,Comprehensive_Optimization,5.6,Non-Renewable Energy,MJ,1782000.0000000002,306900.0,28665000.0,354750.0,648450.0,31108650.0,31757100.0
+CasaNS_Eco_Friendly_House,Comprehensive_Optimization,5.6,Fossil Fuel Consumption,MJ,1765500.0000000002,305250.0,27930000.0,346500.0,666600.0,30347250.0,31013850.0

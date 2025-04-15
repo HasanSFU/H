@@ -1,0 +1,7 @@
+Building_Type,Variation_Type,Alternative_ID,LCA_Measure,Unit,A1_A3_Total,A4_A5_Total,B2_B4_B6_Total,C1_C4_Total,D_Total,A_to_C_Total,A_to_D_Total
+Teaching_Building,Orientation_Passive_Design,6.5,Eutrophication Potential,kg N eq,2765.0,434.0,71820.0,357.0,153.65,75376.0,75529.65
+Teaching_Building,Orientation_Passive_Design,6.5,Ozone Depletion Potential,kg CFC-11 eq,0.3233999999999999,0.0162049999999999,0.94815,0.0161,-4.165e-05,1.3038549999999998,1.3038133499999998
+Teaching_Building,Orientation_Passive_Design,6.5,Smog Potential,kg O3 eq,157500.0,172200.0,1247400.0,154350.0,-1963.5,1731450.0,1729486.5
+Teaching_Building,Orientation_Passive_Design,6.5,Total Primary Energy,MJ,40600000.0,6615000.0,1222200000.0,7630000.0,12845000.0,1277045000.0,1289890000.0
+Teaching_Building,Orientation_Passive_Design,6.5,Non-Renewable Energy,MJ,37800000.0,6510000.0,859950000.0,7525000.0,13755000.0,911785000.0,925540000.0
+Teaching_Building,Orientation_Passive_Design,6.5,Fossil Fuel Consumption,MJ,37450000.0,6475000.0,837900000.0,7350000.0,14140000.0,889175000.0,903315000.0

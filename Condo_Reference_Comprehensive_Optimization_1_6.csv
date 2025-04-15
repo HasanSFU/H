@@ -1,0 +1,7 @@
+Building_Type,Variation_Type,Alternative_ID,LCA_Measure,Unit,A1_A3_Total,A4_A5_Total,B2_B4_B6_Total,C1_C4_Total,D_Total,A_to_C_Total,A_to_D_Total
+Condo_Reference,Comprehensive_Optimization,1.6,Eutrophication Potential,kg N eq,869.0000000000001,136.4,15959.999999999998,112.2,48.29,17077.6,17125.89
+Condo_Reference,Comprehensive_Optimization,1.6,Ozone Depletion Potential,kg CFC-11 eq,0.10164,0.005093,0.2106999999999999,0.00506,-1.309e-05,0.322493,0.32247991
+Condo_Reference,Comprehensive_Optimization,1.6,Smog Potential,kg O3 eq,49500.00000000001,54120.00000000001,277200.0,48510.00000000001,-617.1,429330.0,428712.9
+Condo_Reference,Comprehensive_Optimization,1.6,Total Primary Energy,MJ,12760000.000000002,2079000.0,271600000.0,2398000.0,4037000.000000001,288837000.0,292874000.0
+Condo_Reference,Comprehensive_Optimization,1.6,Non-Renewable Energy,MJ,11880000.000000002,2046000.0,191100000.0,2365000.0,4323000.0,207391000.0,211714000.0
+Condo_Reference,Comprehensive_Optimization,1.6,Fossil Fuel Consumption,MJ,11770000.000000002,2035000.0,186200000.0,2310000.0,4444000.0,202315000.0,206759000.0

@@ -1,0 +1,7 @@
+Building_Type,Variation_Type,Alternative_ID,LCA_Measure,Unit,A1_A3_Total,A4_A5_Total,B2_B4_B6_Total,C1_C4_Total,D_Total,A_to_C_Total,A_to_D_Total
+Condo_Reference,Baseline,1.1,Eutrophication Potential,kg N eq,790.0,124.0,22800.0,102.0,43.9,23816.0,23859.9
+Condo_Reference,Baseline,1.1,Ozone Depletion Potential,kg CFC-11 eq,0.0924,0.00463,0.301,0.0046,-1.19e-05,0.40263,0.4026181
+Condo_Reference,Baseline,1.1,Smog Potential,kg O3 eq,45000.0,49200.0,396000.0,44100.0,-561.0,534300.0,533739.0
+Condo_Reference,Baseline,1.1,Total Primary Energy,MJ,11600000.0,1890000.0,388000000.0,2180000.0,3670000.0,403670000.0,407340000.0
+Condo_Reference,Baseline,1.1,Non-Renewable Energy,MJ,10800000.0,1860000.0,273000000.0,2150000.0,3930000.0,287810000.0,291740000.0
+Condo_Reference,Baseline,1.1,Fossil Fuel Consumption,MJ,10700000.0,1850000.0,266000000.0,2100000.0,4040000.0,280650000.0,284690000.0
